@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    font-family: 'Andika New Basic', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+section {
+    padding: 0 200px;
+}
+
+#top-section {
+    background-image: url(../images/donation4.jpg);
+    height: 660px;
+    padding-top: 1px;
+    background-size: cover;
+    color: white;
+}
+
+#top-p {
+    color: white;
+}
+
+.btn {
+    background-color: #FF5959;
+    padding: 15px;
+    border: #FF5959;
+    border-radius: 3px;
+    color: white;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.donate-amount {
+    display: flex;
+    gap: 15px;
+}
+
+.box {
+    background: #FAFAFA;
+    padding: 15px;
+    border-radius: 5px;
+    width: 25%;
+    color: black;
+}
+
+.box-selected {
+    background: #FF5959;
+    padding: 15px;
+    border-radius: 5px;
+    width: 25%;
+    color: black;
+}
+
+#other-amount {
+    border: none;
+    border-bottom: 1px solid grey;
+    width: 50%;
+    color: grey;
+    padding: 15px;
+}
+
+.donate-plan-div {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    text-align: left;
+}
+
+.food {
+    padding: 30px;
+    background-color: #4f9da660;
+}
+
+.shelter {
+    padding: 30px;
+    background-color: #ff59592f;
+}
+
+.education {
+    padding: 30px;
+    background-color: rgba(255, 255, 0, 0.114);
+}
+
+.half-width {
+    width: 50%;
+}
+
+.contribute-one,
+.contribute-two {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    text-align: left;
+}
+
+#subscribe-section {
+    background-color: rgba(255, 228, 196, 0.166);
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.email{
+    border: none;
+    background-color: rgba(128, 128, 128, 0.238);
+    width: 50%;
+    color: grey;
+    padding: 15px;
+}
+
+footer {
+    padding: 1px 0;
+    background-color: black;
+    color: white;
+}
+
+footer h2 {
+    color: #FF5959;
+}
