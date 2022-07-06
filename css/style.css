@@ -85,17 +85,17 @@ section {
 
 .food {
     padding: 30px;
-    background-color: #4f9da660;
+    background-color: #4f9da63b;
 }
 
 .shelter {
     padding: 30px;
-    background-color: #ff59592f;
+    background-color: #ff595931;
 }
 
 .education {
     padding: 30px;
-    background-color: rgba(255, 255, 0, 0.114);
+    background-color: rgba(255, 255, 0, 0.178);
 }
 
 .half-width {
@@ -111,7 +111,7 @@ section {
 }
 
 #subscribe-section {
-    background-color: rgba(255, 228, 196, 0.166);
+    background-color: rgba(255, 228, 196, 0.336);
     padding: 30px;
     margin: 30px auto;
     width: 50%;
